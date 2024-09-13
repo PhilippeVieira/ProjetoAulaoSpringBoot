@@ -1,13 +1,13 @@
-package org.example.restapi;
+package org.example.projetoaulaospringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestApiApplication {
+public class ProjetoAulaoSpringBootApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RestApiApplication.class, args);
+        SpringApplication.run(ProjetoAulaoSpringBootApplication.class, args);
     }
 
 }

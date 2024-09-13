@@ -1,4 +1,4 @@
-package org.example.restapi;
+package org.example.projetoaulaospringboot;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -12,3 +12,4 @@ public class Controller {
     }
 
 }
+
